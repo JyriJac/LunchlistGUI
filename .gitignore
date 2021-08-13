@@ -1,3 +1,5 @@
-*
-!.gitignore
-!main
+data.py
+lista.json
+mockup.png
+ssl_test.py
+__pycache__
